@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.0.1"
+  version: "1.0.2"
 
 package:
   name: pystac-ext-scientific
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pystac-ext-scientific/pystac_ext_scientific-${{ version }}.tar.gz
-  sha256: 8437804a8cd096c7ed766b11a05cddcdf1cb8994766d34e610eaec3fe1918001
+  sha256: 0a2a8d1c36c7d3453cd79ce2a3f40a0084167d918e4ca8ee95bf219c38a5414a
 
 build:
   number: 0
